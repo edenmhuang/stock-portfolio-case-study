@@ -10,13 +10,6 @@ An end-to-end machine learning pipeline in **R** that predicts 12-month stock re
 
 This repo is a **case-study write-up**, not a code drop. It presents the problem, methodology, and results, with illustrative snippets. The full graded solution (notebooks + data) is intentionally **not published** to respect course academic-integrity policy.
 
-```
-case-study-site/
-├── index.html          # the case study (served by GitHub Pages)
-├── assets/             # result charts + banner
-└── README.md
-```
-
 ---
 
 ### Publish it on GitHub Pages (free, ~3 minutes)
