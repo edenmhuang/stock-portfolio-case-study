@@ -4,15 +4,11 @@ An end-to-end machine learning pipeline in **R** that predicts 12-month stock re
 
 **Result:** +25.3% return · **$252,658 profit** · 7th of ~50 analysts (UGBA 142, UC Berkeley).
 
-**[→ View the full case study](https://edenmhuang.github.io/stock-portfolio-case-study/)**
-
 ---
 
 ### Results
 
 Ranked **7th of ~50 analysts** in the class-wide investment competition, with a realized profit of **$252,658** (a 25.3% return) on the $1,000,000 budget.
-
-![Competition standings, Portfolio Profit by analyst](assets/portfolio-profit.png)
 
 *Class-wide portfolio profit. Eden Huang, 7th overall.*
 
