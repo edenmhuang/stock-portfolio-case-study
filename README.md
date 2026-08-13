@@ -2,9 +2,7 @@
 
 An end-to-end machine learning pipeline in **R** that predicts 12-month stock returns from company financial fundamentals and builds an optimized **$1,000,000**, 12-stock portfolio.
 
-**Result:** +25.3% return · **$252,658 profit** · 7th of ~50 analysts (UGBA 142, UC Berkeley).
-
-**[→ View the case study](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
+**Result:** +25.3% return · **$252,658 profit** · 7th of ~50 analysts
 
 ---
 
