@@ -12,7 +12,7 @@ An end-to-end machine learning pipeline in **R** that predicts 12-month stock re
 
 Ranked **7th of ~50 analysts** in the class-wide investment competition, with a realized profit of **$252,658** (a 25.3% return) on the $1,000,000 budget.
 
-![Competition standings — Portfolio Profit by analyst](assets/competition-standings.png)
+![Competition standings — Portfolio Profit by analyst](portfolio-profit.png)
 
 *Class-wide portfolio profit. Eden Huang, 7th overall.*
 
